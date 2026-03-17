@@ -8,9 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Enum\" />
-    <Folder Include="Models\" />
-    <Folder Include="Interfaces\" />
+    <Compile Include="Z:\apbd Task2\RentalService.cs" Link="RentalService.cs" />
+    <Compile Include="Z:\apbd Task2\RentalService1.cs" Link="RentalService1.cs" />
   </ItemGroup>
 
 </Project>
